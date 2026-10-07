@@ -1,4 +1,4 @@
-package Pertemuan4.id.ac.polinema.relasiclass.percobaan1;
+package id.ac.polinema.relasiclass.percobaan1;
 
 public class Processor {
     private String merk;
